@@ -8,7 +8,7 @@ Opening application with IntellijIDEA or Spring Tools Suite.
 ## Run application
 Run main class called ProjectBackendApplication.
 
-## Endpoints exposes
+## Endpoints expose
 
 Navigate to `http://localhost:8080/api/v1/zeus-project/list-all-employees`. The application will automatically load a list of employees.
 ![postman-list-employees.png](src%2Fmain%2Fresources%2Fstatic%2Fimg%2Fpostman-list-employees.png)
