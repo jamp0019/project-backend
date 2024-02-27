@@ -16,7 +16,7 @@ Navigate to `http://localhost:8080/api/v1/zeus-project/list-all-employees`. The 
 Navigate to `http://localhost:8080/api/v1/zeus-project/get-employee-by-id/{employeeId}`. The application will automatically load information about a specific employee. 
 ![postman-employee-by-id.png](src%2Fmain%2Fresources%2Fstatic%2Fimg%2Fpostman-employee-by-id.png)
 
-## ## Running tests
+## Running tests
 1. Select the test directory, then click on the package `com.zeus.projectbackend` and execute the unit tests.
 ![running-test.png](src%2Fmain%2Fresources%2Fstatic%2Fimg%2Frunning-test.png)
 2. Display results:
